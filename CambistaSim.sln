@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CambistaSim", "CambistaSim.csproj", "{988DE1BF-87AE-44AC-8EB7-D462A8761242}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mysc", "Mysc", "{DEB8B9A6-4116-4045-817F-8061AD793CD9}"
+	ProjectSection(SolutionItems) = preProject
+		HistoryFiles\cd.PNG = HistoryFiles\cd.PNG
+		..\..\..\Desktop\garbage\print3.PNG = ..\..\..\Desktop\garbage\print3.PNG
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
